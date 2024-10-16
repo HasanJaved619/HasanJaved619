@@ -8,14 +8,12 @@
 </h1>
  
 <p align="center">
-<a href="mailto:nabeelusmani@yahoo.com" style="text-decoration: none;">
+<a href="mailto:hasanjaved.shekh@gmail.com" style="text-decoration: none;">
 <img height="50" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nabeelusmani1999/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/hasan-javed-shekh/" style="text-decoration: none;">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nabeelusmani" style="text-decoration: none;" target="_blank">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
 </a>
 </p>
  
