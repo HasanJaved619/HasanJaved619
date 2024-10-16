@@ -26,13 +26,13 @@
  
 ```yaml
 
-Name: Nabeel Usmani
+Name: Hasan Javed
 
 Current Job: Analyst, Business Intelligence 
 
 Education:
  
-   - Bachelors in Software Engineering
+   - Bachelors in Computer Science Honours
 
 Company: Aga Khan University and Hospital
  
@@ -93,7 +93,7 @@ Field of Interest:
 <br>
 <h2> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30" height="30"/>  &nbsp; LeetCode Progress </h2>
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/nabeelusmani?theme=unicorn" alt="LeetCode Progress">
+<img src="https://leetcard.jacoblin.cool/user8805lR?theme=unicorn" alt="LeetCode Progress">
 </p>
  
 <p align="center">
